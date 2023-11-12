@@ -15,7 +15,6 @@ per acre, labor cost per acre, and the vegetable selling cost per
 acre. The program will then calculate the total revenue and display
 your proft/loss from farming.
 
-
 ## Built With
 
 [![image](https://skillicons.dev/icons?i=cpp,visualstudio)](https://skillicons.dev)
@@ -28,7 +27,7 @@ your proft/loss from farming.
 This is a standalone application, no installation is required.
 
 1. Download the file
-> [Click to Download](https://github.com/ant-cantu/Fraction-Calculator/blob/main/FractionCalculator.exe)
+> [Click to Download](https://github.com/ant-cantu/2-2_FarmCalculator/blob/main/FarmCalculator.exe)
 
 2. Run the application.
 3. Review the menu.
